@@ -1,29 +1,12 @@
 ---
 name: scraper
-description: "CLI tool for scraping web pages. Use when: user wants to fetch and scrape any webpage content."
+description: "CLI tool for fetching web pages. Use when: WebFetch is blocked by anti-bot, use this instead."
 homepage: https://github.com/kakkoii1337/gai-cli-scraper
-metadata:
-  {
-    "openclaw":
-      {
-        "emoji": "🕷️",
-        "requires": { "node": ">=18.0.0" },
-        "install":
-          [
-            {
-              "id": "npm",
-              "kind": "npm",
-              "package": "gai-cli-scraper",
-              "label": "Install via npm",
-            },
-          ],
-      },
-  }
 ---
 
 # scraper
 
-CLI tool for scraping web pages.
+CLI tool for fetching web pages.
 
 ## Installation
 
